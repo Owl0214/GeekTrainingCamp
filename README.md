@@ -3,7 +3,7 @@ After class practice at GeekTime CloudNative Training Camp
 
 ## Day01
 
-给定一个字符串你数组
+给定一个字符串数组
 
 ["I", "am", "stupid", "and", "weak"]
 
