@@ -23,5 +23,5 @@
 * 作业2：
     * 请求`/filter/getSystemGoVersion`,获取Go的Version
     * 请求`/filter/getSystemEnv?sysConfigName=`，获取指定系统配置项名
-* 作业3：启动时指定了--log_dir，日志查看响应路径下文件内容
+* 作业3：启动时指定了--log_dir，日志查看相应路径下文件内容
 * 作业4：请求`http://localhost:8888/healthz`,返回`"{Code:200,Msg:'Serving'}"`
